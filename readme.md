@@ -1,15 +1,19 @@
+# 参考资料
+[菜鸟教程Markdown](https://www.runoob.com/markdown/md-tutorial.html "菜鸟教程Markdown")  
+[MarkDown中国](http://www.markdown.cn/ "MarkDown中国")
+
 Markdown基本规则
 ======
 
 # 标题
 
 ## 大标题
-这是一个大标题，也是一级标题
-===
+	这是一个大标题，也是一级标题
+	===
 
 ## 中标题
-这是一个中标题，也是二级标题
------
+	这是一个中标题，也是二级标题
+	-----
 
 ## 多级标题
 	# 一级标题
